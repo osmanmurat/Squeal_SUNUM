@@ -28,6 +28,9 @@ Aşağıda projemle ilgili bazı fotoğraflar ve bazı kaynak kodlarını göreb
 
 ![Ekran görüntüsü 2023-10-24 172659](https://github.com/osmanmurat/Squeal_SUNUM/assets/115216994/c4a4e497-e7ee-4778-9dad-01cda46f844e)
 
+![image](https://github.com/osmanmurat/Squeal_SUNUM/assets/115216994/46b5eb99-8e82-4fa3-ac2a-abca072b7a62)
+
+
 ![Ekran görüntüsü 2023-10-24 173729](https://github.com/osmanmurat/Squeal_SUNUM/assets/115216994/768a8df7-6b22-4715-a8f6-115620ef7c76)
 
 ![Ekran görüntüsü 2023-10-24 173736](https://github.com/osmanmurat/Squeal_SUNUM/assets/115216994/6c32ec83-39cc-49d2-b32a-f2c1317c8578)
